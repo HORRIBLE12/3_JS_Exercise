@@ -1,8 +1,8 @@
 "use strict"
 
 // only change code below this line
-var x;
-var y;
+var x = 10;
+var y = 4;
 // only change code above this line
 
 var total;
